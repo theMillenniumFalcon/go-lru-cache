@@ -1,1 +1,1 @@
-A LRU cache implemented in golang
+A LRU cache implemented in golang. Built by following a tutorial.
